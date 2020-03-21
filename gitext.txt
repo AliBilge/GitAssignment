@@ -1,3 +1,5 @@
 Git merge exercise
 text1
-text edit Ali
+
+text edited by Ali
+
