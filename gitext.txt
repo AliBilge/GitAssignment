@@ -1,2 +1,3 @@
 Git merge exercise
 text1
+bob's text
